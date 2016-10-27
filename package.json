@@ -1,19 +1,9 @@
 {
   "name": "express-architecture",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GalinKarlov/express-architecture.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GalinKarlov/express-architecture/issues"
-  },
-  "homepage": "https://github.com/GalinKarlov/express-architecture#readme"
+  "license": "MIT",
+  "dependencies": {
+    "standard": "8.5.0"
+  }
 }
