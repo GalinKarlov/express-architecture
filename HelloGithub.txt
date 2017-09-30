@@ -1,9 +1,0 @@
-Hello Github
-
-I have made a CHange.
-
-<<<<<<< HEAD
-I have made a Change from desktop.
-=======
-I have made a Change from Github.
->>>>>>> 122deb362e459637118c518842189c351b2f4b3c
